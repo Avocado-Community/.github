@@ -2,7 +2,7 @@
 name: Bug Fix
 about: Create a PR fixing a known issue
 title: [BUGFIX]
-labels:
+labels: bug
 assignees: ''
 
 ---
