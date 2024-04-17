@@ -42,7 +42,7 @@ Please ensure all code snippets and error messages are formatted in appropriate 
 If you are a developer and would like to contribute code to the Avocado Growth Community, you can do so by following the workflow described below.
 
 > [!WARNING]
-> Before contributing code, please make sure to read the [Code of Conduct](CODE_OF_CONDUCT.md).
+> Before contributing code, please make sure to read the [Code of Conduct](CODE_OF_CONDUCT.md) and the [Coding Guidelines](GUIDELINES.md).
 
 
 > [!NOTE]
